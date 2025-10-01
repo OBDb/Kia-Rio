@@ -1,6 +1,15 @@
 command_id: 7D4.7DC.220101
 test_cases:
 - expected_values:
+    KIA_BMS_CHG_PWR: 565.76
+    KIA_BMS_DISCHG_PWR: 0.37
+    KIA_BMS_MIN_TEMP: 1
+    KIA_BMS_SOC: 100
+  response: |-
+    7DC10136201016867FF
+    7DC21EDFFDD00002500
+    7DC22000303013501AA
+- expected_values:
     KIA_BMS_CHG_PWR: 578.56
     KIA_BMS_DISCHG_PWR: 0.49
     KIA_BMS_MIN_TEMP: 1
