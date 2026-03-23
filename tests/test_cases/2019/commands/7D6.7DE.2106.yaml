@@ -22,25 +22,6 @@ test_cases:
 - expected_values:
     KIA_FL_TP: 0
     KIA_FL_TT: -50
-    KIA_FR_TP: 0
-    KIA_FR_TT: -50
-    KIA_RL_TP: 2.48211
-    KIA_RL_TT: 28
-    KIA_RR_TP: 0
-    KIA_RR_TT: -50
-    KIA_TP_1: 0
-    KIA_TP_2: 25.6
-    KIA_TP_3: 0
-    KIA_TT_1: 256
-    KIA_TT_2: -19378
-    KIA_TT_3: 256
-  response: |-
-    7DE1012610600000100
-    7DE2100000100B44E01
-    7DE2200000001003535
-- expected_values:
-    KIA_FL_TP: 0
-    KIA_FL_TT: -50
     KIA_FR_TP: 2.19253
     KIA_FR_TT: 27
     KIA_RL_TP: 2.20632
@@ -115,24 +96,62 @@ test_cases:
     7DE219D4D0000B45000
     7DE22009E4E00003535
 - expected_values:
-    KIA_FL_TP: 2.22011
-    KIA_FL_TT: 29
-    KIA_FR_TP: 2.20632
-    KIA_FR_TT: 27
-    KIA_RL_TP: 2.2339
-    KIA_RL_TT: 32
-    KIA_RR_TP: 2.24769
-    KIA_RR_TT: 30
-    KIA_TP_1: 4129.5
+    KIA_FL_TP: 2.13738
+    KIA_FL_TT: 39
+    KIA_FR_TP: 2.2339
+    KIA_FR_TT: 33
+    KIA_RL_TP: 2.60622
+    KIA_RL_TT: 42
+    KIA_RR_TP: 2.26148
+    KIA_RR_TT: 35
+    KIA_TP_1: 3976.9
     KIA_TP_2: 25.6
-    KIA_TP_3: 4180.8
+    KIA_TP_3: 4206.9
     KIA_TT_1: 256
-    KIA_TT_2: -23982
+    KIA_TT_2: -17060
     KIA_TT_3: 256
   response: |-
-    7DE10126106A14F0100
-    7DE21A04D0100A25201
-    7DE2200A35001003535
+    7DE101261069B590100
+    7DE21A2530100BD5C01
+    7DE2200A45501003535
+- expected_values:
+    KIA_FL_TP: 2.15117
+    KIA_FL_TT: 41
+    KIA_FR_TP: 2.27527
+    KIA_FR_TT: 36
+    KIA_RL_TP: 2.60622
+    KIA_RL_TT: 43
+    KIA_RR_TP: 2.26148
+    KIA_RR_TT: 36
+    KIA_TP_1: 4002.7
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4207
+    KIA_TT_1: 256
+    KIA_TT_2: -17059
+    KIA_TT_3: 256
+  response: |-
+    7DE101261069C5B0100
+    7DE21A5560100BD5D01
+    7DE2200A45601003535
+- expected_values:
+    KIA_FL_TP: 2.15117
+    KIA_FL_TT: 41
+    KIA_FR_TP: 2.27527
+    KIA_FR_TT: 36
+    KIA_RL_TP: 2.64759
+    KIA_RL_TT: 43
+    KIA_RR_TP: 2.26148
+    KIA_RR_TT: 36
+    KIA_TP_1: 4002.7
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4207
+    KIA_TT_1: 256
+    KIA_TT_2: -16291
+    KIA_TT_3: 256
+  response: |-
+    7DE101261069C5B0100
+    7DE21A5560100C05D01
+    7DE2200A45601003535
 - expected_values:
     KIA_FL_TP: 2.22011
     KIA_FL_TT: 29
