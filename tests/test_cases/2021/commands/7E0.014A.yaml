@@ -1,0 +1,23 @@
+command_id: 7E0.014A
+test_cases:
+- expected_values:
+    APP_E: 14.90196
+  response: 7E803414A26
+- expected_values:
+    APP_E: 18.03922
+  response: 7E803414A2E
+- expected_values:
+    APP_E: 18.82353
+  response: 7E803414A30
+- expected_values:
+    APP_E: 21.17647
+  response: 7E803414A36
+- expected_values:
+    APP_E: 21.96078
+  response: 7E803414A38
+- expected_values:
+    APP_E: 26.27451
+  response: 7E803414A43
+- expected_values:
+    APP_E: 27.45098
+  response: 7E803414A46
