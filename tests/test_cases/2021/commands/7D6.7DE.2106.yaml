@@ -229,6 +229,25 @@ test_cases:
     7DE21BF580100D15C01
     7DE2200CC5B01003535
 - expected_values:
+    KIA_FL_TP: 2.88201
+    KIA_FL_TT: 36
+    KIA_FR_TP: 2.77169
+    KIA_FR_TT: 35
+    KIA_RL_TP: 2.84064
+    KIA_RL_TT: 37
+    KIA_RR_TP: 2.85443
+    KIA_RR_TT: 38
+    KIA_TP_1: 5359
+    KIA_TP_2: 25.6
+    KIA_TP_3: 5308
+    KIA_TT_1: 256
+    KIA_TT_2: -12713
+    KIA_TT_3: 256
+  response: |-
+    7DE10126106D1560100
+    7DE21C9550100CE5701
+    7DE2200CF5801003535
+- expected_values:
     KIA_FL_TP: 2.95096
     KIA_FL_TT: 33
     KIA_FR_TP: 2.64759
